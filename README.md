@@ -1,1 +1,1 @@
-For learning purposes, I use the machine learning library sckit-learn to train a perceptron, decision tree, to make an artifical neural network to classify flowers, and a feedforward neural network for regression prediction on concrete strength data from UCI.
+For learning purposes, I use the python machine learning library sckit-learn to train a perceptron, decision tree, to make an artifical neural network to classify flowers, and a feedforward neural network for regression prediction on concrete strength data from UCI.
